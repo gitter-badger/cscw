@@ -1,4 +1,4 @@
-#Facebook game development
+#Video analytics
 ΔΟΙΤΣΙΝΗΣ ΓΙΩΡΓΟΣ - Π2014176 
 ΑΓΓΕΛΟΣ ΠΑΡΛΑΠΑΝΙΔΗΣ - Π2014074
 
