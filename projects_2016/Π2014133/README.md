@@ -13,6 +13,7 @@
 Τα αρχεία του project φιλοξενούνται στο dropbox και η ανάπτυξη κώδικα γίνεται κατά βάση σε Notepad++. Ο κώδικας του Graphical User Interface (GUI) αναπτύχθηκε από το 0 με κομμάτια κώδικα που βρέθηκαν σε σελίδες όπως το w3schools και στη συνέχεια ενσωματώθηκαν κομμάτια κώδικα που δίνει το facebook για like, share, send, comments (Social Plugins) και αναγνώριση του χρήστη ανάλογα με το προφίλ του. Μέχρι στιγμής η εφαρμογή περιέχει ένα παιχνίδι (το Hextris), καθώς και instructions και παραπομπές στο site των δημιουργών του.
 
 Στο Github έχει ανέβει ο κώδικας της εφαρμογής: https://github.com/ChrisPap261/Addictive-Minigames 
+
 και η σελίδα της εφαρμογής στο facebook βρίσκεται στο ακόλουθο link: https://apps.facebook.com/addictive_minigames/
 
 ##Παραδοτέο 3
