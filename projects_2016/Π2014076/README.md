@@ -21,6 +21,21 @@ Facebook Game Link (η πρώτη προσπάθεια συγχρονισμού 
 
 https://apps.facebook.com/game_gallery/
 
+Οι φωτογραφίες για τα γραφικά τις οποίες δημιουργήσαμε εμείς:
+
+http://flappy-fish.weebly.com/uploads/4/7/7/2/47726321/8023560_orig.png
+http://flappy-fish.weebly.com/uploads/4/7/7/2/47726321/266289_orig.png
+http://flappy-fish.weebly.com/uploads/4/7/7/2/47726321/6129875_orig.png
+http://flappy-fish.weebly.com/uploads/4/7/7/2/47726321/7227623_orig.png
+http://flappy-fish.weebly.com/uploads/4/7/7/2/47726321/6354585_orig.jpg
+
+Τα link για τους κώδικες:
+
+https://www.dropbox.com/s/dqanp7o6qu7p6jk/index.html?dl=0
+https://www.dropbox.com/s/2bw8sxb2uup6gld/index.js?dl=0
+https://www.dropbox.com/s/aq4nsrpfftzdsz5/style.css?dl=0
+
+
 ##Παραδοτέο 3
 
 ...
