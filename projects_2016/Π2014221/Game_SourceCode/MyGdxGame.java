@@ -12,14 +12,18 @@ public class MyGdxGame extends Game {
 
 
    GameScreen gameScreen;
+	MenuScreen menuScreen;
 
-
+Game game;
 
 	@Override
 	public void create () {
+   game = this;
+	//gameScreen = new GameScreen();
+		//menuScreen = new MenuScreen();
+        setScreen( new MenuScreen(game));
 
-	gameScreen = new GameScreen();
-    setScreen(gameScreen);
+
 
 	}
 
@@ -28,5 +32,10 @@ public class MyGdxGame extends Game {
 		super.render();
 
 
+
+		}
+
+
+
 	}
-}
+

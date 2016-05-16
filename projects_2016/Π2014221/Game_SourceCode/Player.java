@@ -42,7 +42,7 @@ public class Player {
       //  playerSprite = new Sprite(playerImage);
         playerSprite.setPosition(playerSprite.getX(),playerSprite.getY());
         playerRect = new Rectangle(playerSprite.getX(),playerSprite.getY(),playerSprite.getWidth(),playerSprite.getHeight());
-
+        isOverlapping = false;
 
     }
 
