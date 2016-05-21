@@ -39,7 +39,23 @@ https://www.dropbox.com/s/aq4nsrpfftzdsz5/style.css?dl=0
 
 ##Παραδοτέο 3
 
-...
+Για το τρίτο παραδοτέο έγιναν αλλαγές στα γραφικά του παιχνιδιού. Το γραφικό περιβάλλον πλεον δεν είναι υποθαλάσσιο αλλα απεικονίζει
+έναν ιο υπολογιστεί ο οποίος προσπαθεί να περάσει την firewall του συστήματος. Κομβικό σημείο είναι το γεγονός ότι το παιχνίδι μας
+"παίζει" με την υπομονή του χρήστη αφου δεν είναι όλα τα περάσματα πραγμάτικά. Αναπτύξαμε ένα αλγόριθμο ο οποίος εμφανίζει πιθανές "πόρτες" για τον παίχτη μας οι οποίες δεν είναι πραγματικές αλλα παγίδες. Οι παγίδες δημιουργούνται βάσει πιθανών νοητών διαδρομών που ακολουθεί ο χρήστης. Το παιχνίδι φιλοξενείται σε μια προσωπική μας ιστοσελίδα και έχει συγχρονιστεί με το facebook developers αλλα υπάρχει πρόβλημα με τη δυνατότητα φιλογενίας στο facebook (μάλλον ευθύνεται η java).
+
+Το καινούριο γραφικό περιβάλλον:
+https://www.dropbox.com/s/k3n8y5zke4h4e24/touvlalink4.png?dl=0
+https://www.dropbox.com/s/ry3peykfeygp4v1/mpalalink1.png?dl=0
+https://www.dropbox.com/s/v7tregk32k7gd0x/mikrolink3.png?dl=0
+https://www.dropbox.com/s/161vjur6947waha/maurolink2.png?dl=0
+https://www.dropbox.com/s/kxd9dogn9r62s9y/restartlink5.png?dl=0
+https://www.dropbox.com/s/ol1lepni1ovhlb1/shere.png?dl=0
+
+Ο σύνδεσμος για το παιχνίδι:
+http://christriantafphotography.com/flapy/
+
+Ο σύνδεσμος για το facebook:
+https://apps.facebook.com/cloneflappyionio/
 
 ##Παραδοτέο 4
 
