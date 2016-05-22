@@ -45,3 +45,13 @@ Adobe CS Photoshop για  εικόνες , Crazy Bump για την προετ�
 και η δημιουργία σχεδίας, εστίας φωτιάς, ψαρέματος, μεταφοράς φαγητού νερού και πολλά άλλα.
 
 LINK : https://youtu.be/AUVs4ZuGeEM
+
+Λόγω προβλήματος upload των αρχείων στο Github έχω επισυνάψει τα αρχεία στο Google Drive.
+Περιέχει: -Εικόνες από την δημιουργία του παιχνιδιού TreasureLand
+	  -Κώδικα που αναπτύχθηκε σε javascript μέσω της εφαρμογής MonoDevelop που παρέχει η πλατφόρμα Unity3d
+	  -Οδηγίες για το παιχνίδι
+	  -Την τελική αναφορά σε Microsoft word
+	  -Youtube Link
+	  
+Google Drive Link : https://drive.google.com/folderview?id=0B6DbcVyol3bDb2lVX0tmamtDSms&usp=sharing
+
