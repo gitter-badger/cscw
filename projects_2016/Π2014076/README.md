@@ -63,6 +63,8 @@ https://apps.facebook.com/cloneflappyionio/
 Το παιχνίδι είναι πλέον διαθέσιμο στον εξής σύνδεσμο:
 
 https://apps.facebook.com/cloneflappyionio/
+ή
+https://www.facebook.com/flappyvirus/
 
 ##Tελική Αναφορά
 
