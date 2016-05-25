@@ -59,7 +59,10 @@ https://apps.facebook.com/cloneflappyionio/
 
 ##Παραδοτέο 4
 
-...
+Σε αυτό το στάδιο έχουμε ολοκλειρώσει τον συγχρονισμό του παιχνιδιού με το facebook.
+Το παιχνίδι είναι πλέον διαθέσιμο στον εξής σύνδεσμο:
+
+https://apps.facebook.com/cloneflappyionio/
 
 ##Tελική Αναφορά
 
