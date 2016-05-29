@@ -17,7 +17,7 @@ H ανάπτυξη του παιχνιδιού θα υλοποιηθεί με τ
 
 ##Παραδοτέο 4
 
-...
+https://www.dropbox.com/s/dte88c5xy611uan/%CE%A4%CE%95%CE%9B%CE%99%CE%9A%CE%97-%CE%91%CE%9D%CE%91%CE%A6%CE%9F%CE%A1%CE%91.odt?dl=0
 
 ##Tελική Αναφορά
 
