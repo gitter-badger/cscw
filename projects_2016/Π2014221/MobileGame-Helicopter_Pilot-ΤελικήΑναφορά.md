@@ -2,7 +2,7 @@
 
 *με χρήση της βιβλιοθήκης Libdgx*
 
-<img src="./media/image1.png" width="347" height="37" />
+![Image of Yaktocat](https://github.com/courses-ionio/cscw/blob/master/projects_2016/%CE%A02014221/images/infoBackground.png)
 
 *Σκεντερίδης Κωνσταντίνος Α.Μ.: Π2014221*
 
