@@ -18,6 +18,12 @@
 
 ######Ενδεικτικές εικόνες
 ![Image](https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%CE%A02011058/1.png)
+![Images](https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%CE%A02011058/2.png)
+
+Τέλος, σας παραθέτω το link του εκπαιδευτικού παιχνιδιού:
+https://scratch.mit.edu/projects/34107094/
+
+
 
 
 
