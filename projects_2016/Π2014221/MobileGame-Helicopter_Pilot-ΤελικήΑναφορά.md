@@ -2,7 +2,7 @@
 
 *με χρήση της βιβλιοθήκης Libdgx*
 
-![Image of Yaktocat](https://github.com/courses-ionio/cscw/blob/master/projects_2016/%CE%A02014221/images/infoBackground.png)
+![logo image](https://github.com/courses-ionio/cscw/blob/master/projects_2016/%CE%A02014221/images/infoBackground.png)
 
 *Σκεντερίδης Κωνσταντίνος Α.Μ.: Π2014221*
 
@@ -44,7 +44,8 @@
 
 **5.**Εαν ο παίχτης περάσει μέσα απο όλα τα εμπόδια χωρίς να συγκρουστεί, τότε μεταφέρεται στο επόμενο επίπεδο.
 
-<img src="./media/image2.jpeg" width="778" height="831" />
+![Diagramma leitourgias](https://github.com/courses-ionio/cscw/blob/master/projects_2016/%CE%A02014221/images/%CE%94%CE%B9%CE%B1%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CE%9B%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CE%B3%CF%81%CE%AF%CE%B1%CF%82.jpg)
+
 
 <img src="./media/image3.jpeg" width="777" height="388" />
 
