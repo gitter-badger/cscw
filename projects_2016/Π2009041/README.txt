@@ -42,4 +42,6 @@ https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%25CE%
 https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%25CE%25A02009041/12.png
 https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%25CE%25A02009041/13.png
 https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%25CE%25A02009041/2.png
+(Δεν είχα την δυνατότητα να τις ανεβάσω ως relative links, παρόλο που τις έκανα upload έλεγξα το 
+path παρα πολλές φορές)
 
