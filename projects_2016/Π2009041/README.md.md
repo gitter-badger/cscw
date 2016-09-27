@@ -1,6 +1,6 @@
-Video analytics σε video Μαγειρικης
+﻿Video analytics σε video Μαγειρικης
 Τσιριγώτης Δημήτριος
-ΑΜ Π200941
+ΑΜ Π2009041
 
 ΤΙΤΛΟΣ: Video analytics σε video Μαγειρικης
 
