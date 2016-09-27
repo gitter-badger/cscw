@@ -38,8 +38,8 @@
 www.socialskip.org/watch?videoId=283614
 
 ΕΝΔΕΙΚΤΙΚΕΣ ΕΙΚΟΝΕΣ:
-![1](https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%25CE%25A02009041/1.png)
-![12](https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%25CE%25A02009041/12.png)
-![12](https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%25CE%25A02009041/13.png)
-![2](https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%25CE%25A02009041/2.png)
+https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%25CE%25A02009041/1.png
+https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%25CE%25A02009041/12.png
+https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%25CE%25A02009041/13.png
+https://raw.githubusercontent.com/courses-ionio/cscw/master/projects_2016/%25CE%25A02009041/2.png
 
