@@ -38,5 +38,8 @@
 www.socialskip.org/watch?videoId=283614
 
 ΕΝΔΕΙΚΤΙΚΕΣ ΕΙΚΟΝΕΣ:
-
+[ενδεικτικες εικονες](cscw/projects_2016/Π2009041/images/1.png)
+[ενδεικτικες εικονες](cscw/projects_2016/Π2009041/images/2.png)
+[ενδεικτικες εικονες](cscw/projects_2016/Π2009041/images/12.png)
+[ενδεικτικες εικονες](cscw/projects_2016/Π2009041/images/13.png)
 
