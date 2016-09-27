@@ -36,3 +36,10 @@
 
 ΤΟ ΠΕΙΡΑΜΑ:
 www.socialskip.org/watch?videoId=283614
+
+ΕΝΔΕΙΚΤΙΚΕΣ ΕΙΚΟΝΕΣ:
+[ενδεικτικες εικονες](C:\User/dimitris/Documents/Github/cscw/projects_2016/Π2009041/2)
+[ενδεικτικες εικονες](C:\User/dimitris/Documents/Github/cscw/projects_2016/Π2009041/12)
+[ενδεικτικες εικονες](C:\User/dimitris/Documents/Github/cscw/projects_2016/Π2009041/13)
+[ενδεικτικες εικονες](C:\User/dimitris/Documents/Github/cscw/projects_2016/Π2009041/1)
+
