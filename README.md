@@ -31,7 +31,7 @@
 * [Social live TV](http://dev.twitch.tv): [Example Apps](http://www.overwolf.com/twitch-app-challenge/)
 * [Ενα νέο κεφάλαιο για βιβλίο εργασιών προγραμματισμού](http://www.mttcs.org/Projekte/Squeak/material/ideas_eng.pdf) για [Microsoft Research Touch Develop](https://www.touchdevelop.com)
 * [Κατασκευή παιχνιδιού Pong για 4 χρήστες](https://www.dropbox.com/s/f00zjlbvocqd7h9/CSCWproject.pdf?dl=0)
-* [Ubicomp course projects](https://github.com/courses-ionio/ubiq)
+* [Ubicomp course arduino projects](https://github.com/courses-ionio/ubiq)
 
 
 Η παράδοση των εργασιών γίνεται μόνο στο github, τα επισυναπτόμενα σε email διαγράφονται χωρίς να διαβαστούν, για την εκμάθηση του συστήματος github προτείνονται τα παρακάτω:
