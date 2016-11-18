@@ -23,6 +23,7 @@
 * [Twitter visualization](http://www.flutrack.org)
 * [Interactive mapmaking](http://www.mapito.org)
 * [Android Sports App](https://github.com/andrid/Run2gether)
+* [Chat bot](https://hubot.github.com/docs/scripting/)
 * [Socket.io](http://socket.io): [web chat app](http://socket.io/get-started/chat/)
 * [Firebase](https://www.firebase.com): [Mobile chat app](https://www.firebase.com/docs/android/examples.html)
 * [Meteor](https://www.meteor.com/) (e.g. [Slack Clone] (https://scotch.io/courses/building-a-slack-clone-in-meteor-js))
